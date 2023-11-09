@@ -37,7 +37,8 @@ This is a simple note-taking application built with Node.js and Express.js. The 
 ## Features
 - View existing notes
 - Create new notes
-![image](https://github.com/Mohamedamin141/Note-Taker/assets/138842903/645a8870-d40b-4010-81ea-32fd0e4e7c0e)
+![Screenshot 2023-11-09 182706](https://github.com/Mohamedamin141/Note_Taker/assets/138842903/b1c1f5ab-cc99-41ab-b02d-9d5805638190)
+
 
 
 ## Dependencies
